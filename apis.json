@@ -1,0 +1,130 @@
+{
+    "name": "TelAPI",
+    "description": "Zang offers business communications tools & voice app development platforms that bring innovation and ease to unified communications & collaboration solutions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1176-telapi.jpg",
+    "tags": [
+        "have api",
+        "messages",
+        "relative data",
+        "service api",
+        "target",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/telapi\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TelAPI",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1176-telapi.jpg",
+            "humanURL": "http:\/\/telapi.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/telapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/telapi-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "hetras Hotel API Version 0",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1176-telapi.jpg",
+            "humanURL": "http:\/\/telapi.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/hetras-hotel-api-version-0.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/hetras-hotel-api-version-0-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.telapi.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.TelAPI.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.telapi.com\/blog\/feed\/"
+        },
+        {
+            "type": "Contact Form",
+            "url": "http:\/\/www.telapi.com\/contact"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/telapi"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/zang-io"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.telapi.com\/docs\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@telapi.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/TelAPI"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.telapi.com\/pricing"
+        },
+        {
+            "type": "Privacy",
+            "url": "https:\/\/www.telapi.com\/legal\/privacy-policy"
+        },
+        {
+            "type": "Registration",
+            "url": "https:\/\/www.telapi.com\/signup"
+        },
+        {
+            "type": "Status",
+            "url": "http:\/\/status.telapi.com\/"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "https:\/\/www.telapi.com\/legal\/tos"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TelAPI"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Zang_io"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.telapi.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/telapi.com"
+        }
+    ]
+}
